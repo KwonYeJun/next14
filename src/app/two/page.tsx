@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
     <Navigation />
- <h1>two</h1>
+
     </>
   );
 }
